@@ -1,0 +1,81 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+    position: relative;
+    background-color: fixed;
+    
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 3em;
+    line-height: 1.4em;
+    
+}
+div#water1
+{background-color: blue;}
+div#earth1
+{background-color: teal;}
+div#fire1
+{background-color: red;}
+div#air1
+{background-color: gray;}
+div#lightning1
+{background-color: yellow;}
+div#plant1
+{background-color: green;}
+div#animal1
+{background-color: brown;}
+div#people1
+{background-color: purple;}
+div#time1
+{background-color: orange;}
+div#space1
+{background-color: black;}
+
+
+div#water1:hover {
+    background-color: white;transform:translate(30px,0px);}  
+div#earth1:hover {
+    background-color: white;transform:translate(60px,0px);}   
+div#fire1:hover {
+    background-color: white;transform:translate(90px,0px);}  
+div#air1:hover {
+    background-color: white;transform:translate(120px,0px);}   
+div#lightning1:hover {
+    background-color: white;transform:translate(150px,0px);} 
+div#plant1:hover {
+    background-color: white;transform:translate(180px,0px);}  
+div#animal1:hover {
+    background-color: white;transform:translate(210px,0px);} 
+div#people1:hover {
+    background-color: white;transform:translate(240px,0px);}   
+div#time1:hover {
+    background-color: white;transform:translate(270px,0px);}   
+div#space1:hover {
+    background-color: white;transform:translate(300px,0px);}   
+
+
+
+
+
+
+
+
+body {
+	
+    background:white
+    	
+}
+
+
+    
+#container {
+	
+}
+
+
+
+
